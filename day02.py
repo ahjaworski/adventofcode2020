@@ -1,5 +1,3 @@
-import re
-
 with open('input/input2.txt') as f:
     lines = [i.strip() for i in f.readlines()]
 
